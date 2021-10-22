@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjay
+- 👋 Hi, I’m Sanjay
 - 👀 I’m interested in IOT
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on AutoCode
